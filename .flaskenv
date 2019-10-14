@@ -1,1 +1,4 @@
 FLASK_APP=strip.py
+FLASK_DEBUG=1
+FLASK_ENV=development
+FLASK_TESTING=True
