@@ -2,3 +2,6 @@ bin
 include 
 lib
 __pycache__
+app/__pycache__
+app/routes/__pycache__/
+strip.db
